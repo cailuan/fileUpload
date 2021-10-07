@@ -1,0 +1,9 @@
+#dist
+node_modules
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+
+server/node_modules
+upload-file/node_modules
